@@ -1,0 +1,7 @@
+{
+  "name": "money-manager-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
